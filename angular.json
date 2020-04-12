@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-netlify"
+    }
+  },
+  "defaultProject": "ng-netlify",
+  "cli": {
+    "analytics": "cc47c1fe-3af3-4a9a-b179-35e80a82181f"
+  }
 }
